@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.simplenavigationcompose",
+    "sha256_cert_fingerprints":
+    ["CA:C0:1F:EB:CA:10:ED:6C:05:CD:0C:53:94:A5:5B:E8:28:23:E0:7A:AB:BD:BA:2F:40:FC:F4:92:0F:37:3D:D8"]
+  }
+}]
